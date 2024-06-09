@@ -1,0 +1,5 @@
+fname: output, <class 'str'>
+linear_dimension: 30, <class 'int'>
+number_of_birds: 1000, <class 'int'>
+eta: 0.25, <class 'float'>
+radius: 0.5, <class 'float'>
