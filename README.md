@@ -1,8 +1,8 @@
-# BIOL 6505 - Biological Programming
+# BIOL6505 - Biological Programming
 
 ## Overview
 
-This repository contains the coursework for the **BIOL 6505 - Biological Programming** course. It includes all the materials and assignments completed during the Fall 2023 semester.
+This repository contains the coursework for BIOL6505. It includes all the materials and assignments completed during the Fall 2023 semester.
 
 ## Contents
 
