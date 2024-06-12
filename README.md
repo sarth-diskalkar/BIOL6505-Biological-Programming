@@ -48,3 +48,7 @@ The course syllabus outlining the topics covered, grading policy, and schedule.
    ```bash
    git clone https://github.com/sarth-diskalkar/BIOL6505-Biological-Programming.git
    cd BIOL6505-Biological-Programming
+   ```
+
+## Contact
+If you have any questions or suggestions, feel free to contact me at sarthd@gmail.com.
